@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for fred-astro-paper-bold-voice-2441 on 2024-05-26T10:38:51+08:00
+# fly.toml app configuration file generated for fred-astro-paper-ancient-voice-349 on 2024-05-26T10:55:09+08:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'fred-astro-paper-bold-voice-2441'
+app = 'fred-astro-paper-ancient-voice-349'
 primary_region = 'hkg'
 
 [build]
