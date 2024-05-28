@@ -2,7 +2,6 @@
 layout: post
 title: Bridging in React Native
 subtitle: An in-depth look into React Native's core
-date: 2017-05-04T12:00:00.000Z
 author: Fred
 catalog: true
 tags:
