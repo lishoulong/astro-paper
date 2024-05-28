@@ -1,6 +1,8 @@
 ---
 layout: post
 title: interview conclusion
+pubDatetime: "2016-04-18T00:00:00Z"
+description: interview conclusion
 ---
 
 <br>最近面试遇到一个关于object.create方法的实现，当时回答想到的方法是通过直接new一个参数，当时面试官提到没法保证参数是构造函数。回来看了一下underscore源码发现了一种实现方法。

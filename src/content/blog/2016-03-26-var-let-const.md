@@ -1,6 +1,8 @@
 ---
 layout: post
-title: var,let and const
+title: "var,let and const"
+pubDatetime: "2016-03-26T00:00:00Z"
+description: var let const
 ---
 
 <br>let:（1）它的用法类似于var，但是所声明的变量，只在let命令所在的代码块内有效。

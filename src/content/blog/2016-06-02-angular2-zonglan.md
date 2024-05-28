@@ -1,6 +1,8 @@
 ---
 layout: post
 title: angular2－总览
+pubDatetime: "2016-06-02T00:00:00Z"
+description: angular2 zonglan
 ---
 
 <br>angular1和angular2大的变动部分：
@@ -106,6 +108,7 @@ ROUTER_DIRECTIVES,ROUTER_PROVIDERS,RouteDefinition,RouterLocationStrategy,HashLo
 
 <br>or
 "<div class="container" [ngSwitch]="myVar">
+
 <div *ngSwitchWhen="'A'">Var is A</div>
 <div *ngSwitchWhen="'B'">Var is B</div>
 <div \*ngSwitchDefault>Var is something else</div>

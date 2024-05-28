@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "vue团队使用规范"
-subtitle: "那些年踩过的vue坑"
-date: 2017-06-02 12:00:00
-author: "Fred"
+title: vue团队使用规范
+subtitle: 那些年踩过的vue坑
+date: 2017-06-02T12:00:00.000Z
+author: Fred
 catalog: true
 tags:
   - vue
   - vue-router
+pubDatetime: "2017-06-02T00:00:00Z"
+description: vue custom use specification
 ---
 
 # 原则简述
@@ -115,7 +117,8 @@ Vue.js 的表达式是 100% 的 Javascript 表达式。这使得其功能性很�
 ## 怎么做？
 
 组件的每一个属性单独使用一个 props，并且使用函数或是原始类型的值。
-```
+
+````
 <!-- 推荐 -->
 <range-slider
 	  :values="[10, 20]"
@@ -186,7 +189,8 @@ Vue.js 的表达式是 100% 的 Javascript 表达式。这使得其功能性很�
 ## 怎么做？
 
 组件结构化
-```
+````
+
 <template lang="html">
 <div class="Ranger__Wrapper">
 <!-- ... -->

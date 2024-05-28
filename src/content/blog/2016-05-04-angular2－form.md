@@ -1,6 +1,8 @@
 ---
 layout: post
 title: angular2表单经验分享
+pubDatetime: "2016-05-04T00:00:00Z"
+description: angular2－form
 ---
 
 <br>上段时间看了一本angular2的书籍“ng－book2”，感觉很多地方讲的很深入，所以这里拿出来分享一下我的心得。

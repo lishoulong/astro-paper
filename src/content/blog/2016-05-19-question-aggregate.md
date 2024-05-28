@@ -1,6 +1,8 @@
 ---
 layout: post
 title: question－aggregate
+pubDatetime: "2016-05-19T00:00:00Z"
+description: question aggregate
 ---
 
 1.关于immutablejs：

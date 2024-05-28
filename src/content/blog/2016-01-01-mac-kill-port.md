@@ -1,6 +1,8 @@
 ---
 layout: post
 title: mac kill port
+pubDatetime: "2016-01-01T00:00:00Z"
+description: mac kill port
 ---
 
 <br>最近在用mongodb的时候遇到一个问题，启动mongod 时，出现addr already in use错误。对于windows or linux来说，用如下命令：

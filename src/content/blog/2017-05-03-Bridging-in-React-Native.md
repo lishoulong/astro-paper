@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Bridging in React Native"
-subtitle: "An in-depth look into React Native's core"
-date: 2017-05-04 12:00:00
-author: "Fred"
+title: Bridging in React Native
+subtitle: An in-depth look into React Native's core
+date: 2017-05-04T12:00:00.000Z
+author: Fred
 catalog: true
 tags:
   - rn
   - native
+pubDatetime: "2017-05-03T00:00:00Z"
+description: Bridging in React Native
 ---
 
 > 这篇文章翻译自(https://tadeuzagallo.com/blog/react-native-bridge/)

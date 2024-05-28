@@ -1,6 +1,8 @@
 ---
 layout: post
 title: webpack loaders
+pubDatetime: "2015-08-06T00:00:00Z"
+description: webpack loaders
 ---
 
 <br>some ways of configuring loaders。

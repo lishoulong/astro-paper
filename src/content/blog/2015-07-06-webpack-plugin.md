@@ -1,6 +1,8 @@
 ---
 layout: post
 title: webpack plugin
+pubDatetime: "2015-07-06T00:00:00Z"
+description: webpack plugin
 ---
 
 <br>1.webpack-merge

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: react-native init <name> app security bug
+pubDatetime: "2017-04-10T00:00:00Z"
+description: react native init <name> app security bug
 ---
 
 Use the react-native cli to init a new project, but when run the project, I encounter a bug, that referrer have no provide of js bundle URL; After google, I find many person encounter this problem, so I post the solution here.

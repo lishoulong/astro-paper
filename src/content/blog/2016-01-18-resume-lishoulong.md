@@ -1,6 +1,8 @@
 ---
 layout: resume
 title: resume - lishoulong
+pubDatetime: "2016-01-18T00:00:00Z"
+description: resume lishoulong
 ---
 
 <div >
@@ -109,6 +111,7 @@ title: resume - lishoulong
           熟悉ES6（尤其喜欢generator，arrow function，class,import，string model，let，const），immutablejs,redux-Devtools。
 
 后台掌握情况：可以用nodejs框架koajs,express开发项目，可以利用mongodb实现数据的增删改查。
+
 </div>
 </div>
 <div class="timeline-item">

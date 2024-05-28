@@ -1,6 +1,8 @@
 ---
 layout: post
-title: react+redux+api,how to add a reducer
+title: "react+redux+api,how to add a reducer"
+pubDatetime: "2016-03-12T00:00:00Z"
+description: react redux add reducer
 ---
 
 <br>The process of adding a reducer in the react.

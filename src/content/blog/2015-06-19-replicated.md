@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Replicated - An Easier Path from SaaS to Enterprise
+pubDatetime: "2015-06-19T00:00:00Z"
+description: replicated
 ---
 
 <p class="meta">19 Jun 2015 - San Francisco</p>

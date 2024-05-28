@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Integreted RN to existing android project"
-subtitle: "那些年踩过的坑"
-date: 2017-05-08 12:00:00
-author: "Fred"
+title: Integreted RN to existing android project
+subtitle: 那些年踩过的坑
+date: 2017-05-08T12:00:00.000Z
+author: Fred
 catalog: true
 tags:
   - rn
   - android
+pubDatetime: "2017-05-08T00:00:00Z"
+description: Integreted RN to existing android project
 ---
 
 > 这篇文章的背景，网络上有很多关于rn的资源都过于陈旧，rn已经升级到0.44了，那些文章对rn的依赖还停留在0.2\*，导致启动都不能成功，不得不说，对于初学者，找到合适的学习资源都是一个问题。下面的整个过程，是我从0开始运行成功的。

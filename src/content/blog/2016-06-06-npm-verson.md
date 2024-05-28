@@ -1,6 +1,8 @@
 ---
 layout: post
 title: npm version
+pubDatetime: "2016-06-06T00:00:00Z"
+description: npm verson
 ---
 
 This post mainly refer to the npm dependencies version(ie,the difference between ~ and ^).

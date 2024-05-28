@@ -1,6 +1,8 @@
 ---
 layout: post
 title: mongodb objectId
+pubDatetime: "2016-02-26T00:00:00Z"
+description: mongodb objectId
 ---
 
 <br>最近用到mongodb，想起来一个之前面试被问到的一个问题，终于抽时间解决了。

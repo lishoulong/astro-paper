@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "react团队使用规范"
-subtitle: "那些年踩过的react坑"
-date: 2017-06-03 12:00:00
-author: "Fred"
+title: react团队使用规范
+subtitle: 那些年踩过的react坑
+date: 2017-06-03T12:00:00.000Z
+author: Fred
 catalog: true
 tags:
   - react
+pubDatetime: "2017-06-03T00:00:00Z"
+description: react custom use specification
 ---
 
 # 原则简述
