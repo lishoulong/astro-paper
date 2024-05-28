@@ -1,5 +1,4 @@
 ---
-layout: post
 title: vue团队使用规范
 subtitle: 那些年踩过的vue坑
 date: 2017-06-02T12:00:00.000Z

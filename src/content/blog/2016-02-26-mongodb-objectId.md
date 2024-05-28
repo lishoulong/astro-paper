@@ -1,5 +1,4 @@
 ---
-layout: post
 title: mongodb objectId
 pubDatetime: 2016-02-26T00:00:00.000Z
 description: mongodb objectId

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "react+redux+api,how to add a reducer"
 pubDatetime: 2016-03-12T00:00:00.000Z
 description: react redux add reducer

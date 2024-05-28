@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bridging in React Native
 subtitle: An in-depth look into React Native's core
 author: Fred

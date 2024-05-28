@@ -1,5 +1,4 @@
 ---
-layout: post
 title: react团队使用规范
 subtitle: 那些年踩过的react坑
 date: 2017-06-03T12:00:00.000Z

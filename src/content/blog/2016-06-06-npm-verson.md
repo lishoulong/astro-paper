@@ -1,5 +1,4 @@
 ---
-layout: post
 title: npm version
 pubDatetime: 2016-06-06T00:00:00.000Z
 description: npm verson

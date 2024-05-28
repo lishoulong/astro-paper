@@ -1,5 +1,4 @@
 ---
-layout: post
 title: question－aggregate
 pubDatetime: 2016-05-19T00:00:00.000Z
 description: question aggregate

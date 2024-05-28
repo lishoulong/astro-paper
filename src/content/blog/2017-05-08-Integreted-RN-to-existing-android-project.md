@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Integreted RN to existing android project
 subtitle: 那些年踩过的坑
 date: 2017-05-08T12:00:00.000Z
