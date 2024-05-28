@@ -8,7 +8,7 @@ catalog: true
 tags:
   - rn
   - android
-pubDatetime: "2017-05-08T00:00:00Z"
+pubDatetime: 2017-05-08T00:00:00.000Z
 description: Integreted RN to existing android project
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: webpack plugin
-pubDatetime: "2015-07-06T00:00:00Z"
+pubDatetime: 2015-07-06T00:00:00.000Z
 description: webpack plugin
 ---
 

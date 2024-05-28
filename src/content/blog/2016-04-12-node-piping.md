@@ -1,7 +1,7 @@
 ---
 layout: post
 title: node piping plugin
-pubDatetime: "2016-04-12T00:00:00Z"
+pubDatetime: 2016-04-12T00:00:00.000Z
 description: node piping
 ---
 

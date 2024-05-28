@@ -1,7 +1,7 @@
 ---
 layout: resume
 title: resume - lishoulong
-pubDatetime: "2016-01-18T00:00:00Z"
+pubDatetime: 2016-01-18T00:00:00.000Z
 description: resume lishoulong
 ---
 

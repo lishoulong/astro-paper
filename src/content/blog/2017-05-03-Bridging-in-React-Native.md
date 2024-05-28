@@ -8,7 +8,7 @@ catalog: true
 tags:
   - rn
   - native
-pubDatetime: "2017-05-03T00:00:00Z"
+pubDatetime: 2017-05-03T00:00:00.000Z
 description: Bridging in React Native
 ---
 

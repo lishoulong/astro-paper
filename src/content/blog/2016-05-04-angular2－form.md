@@ -1,7 +1,7 @@
 ---
 layout: post
 title: angular2表单经验分享
-pubDatetime: "2016-05-04T00:00:00Z"
+pubDatetime: 2016-05-04T00:00:00.000Z
 description: angular2－form
 ---
 

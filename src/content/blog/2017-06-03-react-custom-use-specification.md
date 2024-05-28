@@ -7,7 +7,7 @@ author: Fred
 catalog: true
 tags:
   - react
-pubDatetime: "2017-06-03T00:00:00Z"
+pubDatetime: 2017-06-03T00:00:00.000Z
 description: react custom use specification
 ---
 

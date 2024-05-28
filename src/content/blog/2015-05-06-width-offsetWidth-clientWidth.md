@@ -1,7 +1,7 @@
 ---
 layout: post
 title: width offsetWidth clientWidth比较
-pubDatetime: "2015-05-06T00:00:00Z"
+pubDatetime: 2015-05-06T00:00:00.000Z
 description: width offsetWidth clientWidth
 ---
 

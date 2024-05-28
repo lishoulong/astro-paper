@@ -1,7 +1,7 @@
 ---
 layout: post
 title: angular2－总览
-pubDatetime: "2016-06-02T00:00:00Z"
+pubDatetime: 2016-06-02T00:00:00.000Z
 description: angular2 zonglan
 ---
 

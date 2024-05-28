@@ -1,7 +1,7 @@
 ---
 layout: post
 title: webpack loaders
-pubDatetime: "2015-08-06T00:00:00Z"
+pubDatetime: 2015-08-06T00:00:00.000Z
 description: webpack loaders
 ---
 

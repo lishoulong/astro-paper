@@ -8,7 +8,7 @@ catalog: true
 tags:
   - vue
   - vue-router
-pubDatetime: "2017-06-02T00:00:00Z"
+pubDatetime: 2017-06-02T00:00:00.000Z
 description: vue custom use specification
 ---
 

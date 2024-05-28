@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "var,let and const"
-pubDatetime: "2016-03-26T00:00:00Z"
+pubDatetime: 2016-03-26T00:00:00.000Z
 description: var let const
 ---
 
